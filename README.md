@@ -1,8 +1,8 @@
-Mobile Application Development (MAD) Lab
+Mobile Application Development (MAD) Lab:
 This repository documents the tasks and assignments completed as part of the Mobile Application Development (MAD) Lab course. The tasks involve hands-on implementation of Flutter-based mobile applications, covering fundamental to advanced concepts in mobile app development.
 
 
-Course Objectives
+Course Objectives:
 1)The MAD Lab course aims to:
 2)Provide hands-on experience in mobile app development using Flutter and Dart.
 3)Enhance understanding of UI/UX design principles for mobile applications.
