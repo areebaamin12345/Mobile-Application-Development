@@ -1,27 +1,23 @@
-OBJECTIVE:
-This lab focuses on installing and configuring Flutter, setting up the development environment, and understanding the necessary tools required for mobile application development.
-WHAT I LEARNED:
-Installed Git and understood its importance in Flutter development.
-Successfully installed and configured Flutter SDK.
-Set up Android Studio for emulator support.
-Learned to connect a physical mobile device for app testing using USB debugging.
-Installed necessary Flutter and Dart extensions in VS Code.
-Created a Flutter project using the VS Code command palette.
-Understood the significance of environment variables in making Flutter commands globally accessible.
-
-📂 Files in this Folder
-
-📄 Lab1.pdf – Detailed report of Lab 1, including step-by-step installation procedures.
+Mobile Application Development (MAD) Lab
+This repository documents the tasks and assignments completed as part of the Mobile Application Development (MAD) Lab course. The tasks involve hands-on implementation of Flutter-based mobile applications, covering fundamental to advanced concepts in mobile app development.
 
 
-🛠 TOOLS USED:
-Flutter SDK
-Git
-Android Studio
-VS Code
-Windows Terminal/Command Prompt
+Course Objectives
+1)The MAD Lab course aims to:
+2)Provide hands-on experience in mobile app development using Flutter and Dart.
+3)Enhance understanding of UI/UX design principles for mobile applications.
+4)Develop and integrate different functionalities, such as state management, API handling, and database connectivity.
+5)Deploy and test applications on emulators and physical devices.
 
-🚀 COMMANDS USED:
-flutter devices – To check connected devices.
-flutter create project_name – To create a new Flutter project.
-This lab provided a strong foundation for Flutter development by setting up the environment and understanding the essential tools. It prepared me for future labs involving Flutter application development. 
+
+Development Environment:
+-Framework: Flutter
+-Programming Language: Dart
+-IDE: Visual Studio Code, Android Studio
+-Version Control: GitHub
+-Emulator: Android Emulator (Pixel 2 API 35)
+-Build Tools: Gradle, Android SDK, and NDK
+
+
+This repository will be updated as new concepts and techniques are explored throughout the course. Contributions, feedback, and discussions are welcome!
+
